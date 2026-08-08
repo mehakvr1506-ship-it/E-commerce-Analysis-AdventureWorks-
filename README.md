@@ -56,7 +56,7 @@ Which product categories generate the highest revenue and sales?
 Which product categories have the highest return activity?
 
 **Key Finding:**
-- **Accessories recorded the highest return activity** among product categories while Bikes recorded the lowest resturns with maximum revenue 
+- **Accessories recorded the highest return activity** among product categories while Clothing recorded the lowest resturns with maximum revenue 
 
 ---
 
