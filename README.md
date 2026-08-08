@@ -108,9 +108,10 @@ How much revenue is lost from existing customers and gained from new customers?
 
 ---
 
-## Project Report
+## SQL Queries 
+[View SQL Queries](./Adventure_Works_SQL.sql)
 
-The detailed report contains the complete analysis, calculations, visualizations, findings, and business recommendations.
+
 
 
 
