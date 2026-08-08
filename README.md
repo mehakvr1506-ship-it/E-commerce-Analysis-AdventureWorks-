@@ -1,10 +1,8 @@
 # AdventureWorks Sales & Customer Analytics
 
 ## Project Overview
-
-This project analyzes the **AdventureWorks** dataset using SQL and Power BI to evaluate sales performance, profitability, customer behavior, product performance, returns, and regional trends.
-
-The analysis focuses on answering key business questions and extracting actionable insights from historical sales and customer data.
+AdventureWorks is a sample database developed by Microsoft, representing a fictional bicycle manufacturing and retail business. 
+This project analyzes sales data from 2015–2017 to evaluate revenue trends, customer purchasing behavior, product performance, and profitability. Advanced SQL was used for data analysis and extraction, while Power BI was used to create an interactive dashboard and visualize key business insights.
 
 ---
 
@@ -12,7 +10,7 @@ The analysis focuses on answering key business questions and extracting actionab
 
 - **SQLite** – Data querying and analysis
 - **SQL** – CTEs, Window Functions, CASE statements, JOINs, Aggregations, and Subqueries
-- **Power BI** – Interactive dashboards and data visualization
+- **Power BI** – Data visualization via interactive dashboard
 
 ---
 
@@ -109,7 +107,7 @@ How much revenue is lost from existing customers and gained from new customers?
 ---
 
 ## SQL Queries 
-[View SQL Queries](./Adventure_Works_SQL.sql)
+[View SQL Queries](./AdventureWorks_SQL.sql)
 
 
 
